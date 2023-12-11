@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @zeshthegreat
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning software Engineering
+- 💞️ I’m looking to collaborate on [TBA]
+- 📫 How to reach me @hy_madiii on twitter
