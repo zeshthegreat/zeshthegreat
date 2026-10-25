@@ -7,18 +7,18 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I architect secure, scalable infrastructure and streamline deployment workflows. Bridging the gap between development and operations, I specialize in hybrid systems administration, automated CI/CD pipelines, and proactive security measures. My focus is on building resilient environments that accelerate delivery without compromising on compliance.
 
-- 🔐 **DevSecOps Focus:** Enforcing shift-left security utilizing Betterleaks, Trivy, SonarQube, OWASP ZAP, and Dependabot to maintain repository and application integrity from the first commit to deployment.
-- 🏗️ **Cloud & Infrastructure:** Deploying and managing containerized applications with Docker, Docker Compose, and Kubernetes, managing AWS S3 static deployments, and establishing scalable architectures.
-- ⚙️ **Systems Administration:** Comprehensive management of Linux (Ubuntu 24.04) and Windows server environments, optimizing networking and workflows with command-line utilities (RDP, Robocopy, SFC, pathping).
-- 🔄 **Automation:** Streamlining operations through Git pre-commit hooks, Python (`uv`), and robust shell scripting.
+- **DevSecOps Focus:** Enforcing shift-left security utilizing Betterleaks, Trivy, SonarQube, OWASP ZAP, and Dependabot to maintain repository and application integrity from the first commit to deployment.
+- **Cloud & Infrastructure:** Deploying and managing containerized applications with Docker, Docker Compose, and Kubernetes, managing AWS S3 static deployments, and establishing scalable architectures.
+- **Systems Administration:** Comprehensive management of Linux (Ubuntu 24.04) and Windows server environments, optimizing networking and workflows with command-line utilities (RDP, Robocopy, SFC, pathping).
+- **Automation:** Streamlining operations through Git pre-commit hooks, Python (`uv`), and robust shell scripting.
 
 ---
 
-## 💻 Technical Arsenal
+## Technical Arsenal
 
 **Infrastructure & Orchestration:**  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) 
@@ -49,9 +49,9 @@ I architect secure, scalable infrastructure and streamline deployment workflows.
 
 ---
 
-## 📂 Featured Work
+## Featured Work
 
-### 🌟 Infrastructure & Security Portfolio
+### Infrastructure & Security Portfolio
 *A comprehensive showcase demonstrating scalable infrastructure builds, security auditing reports, and system administration scripts.*
 - **Core Technologies:** Web Stack, CI/CD, Git Hooks
 - **Project Scope:** Showcases practical implementations of DevSecOps pipelines, automated vulnerability scanning configurations, and hybrid environment management tools.
@@ -59,7 +59,7 @@ I architect secure, scalable infrastructure and streamline deployment workflows.
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeshthegreat&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github.readme-stats.vercel.app/api?username=zeshthegreat&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeshthegreat&theme=radical&hide_border=true" width="48%" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00D2FF&height=100&section=footer" width="100%" />
 </div>
